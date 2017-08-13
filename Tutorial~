@@ -9,5 +9,3 @@ This command will dispaly the lines which are modified. (It will show the differ
 git diff --staged 
 This will compare the Re pository file with the file in the staging area. 
 
-Lect 10 - How to delete the files 
-
