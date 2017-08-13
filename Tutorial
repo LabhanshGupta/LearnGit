@@ -31,10 +31,11 @@ How to unstage the files
 git reset HEAD filename 
 
 Lect-16 
-How to get back to some old version of file from Repository 
-Now this peice of code is uselesss ssssssss i want to remove it 
+Getting old version from Repository 
+git log 
+Now select the commit number to which you have to go 
+git checkout ____some digits of commit number___ filename 
 
 
-Now this is alos a second useless code  
 
 
