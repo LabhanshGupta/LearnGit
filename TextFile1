@@ -1,7 +1,11 @@
 Learning the Git. 
 This is the first file which I am adding in the Project Folder. 
 
-Now we make the first time changes in the file "TextFile1" . We have to again add it to repository. 
+Now we make the first time modifications in the file "TextFile1" . We have to again add it to repository. 
 
 Now we will edit the multiple files, and commit them to repository. 
+
+Now I will modify the file again , and will not commit it . Then I will see the diffrences between the file in Repository and the file in the Working Copy. 
+For this use the command " git diff" 
+
 
