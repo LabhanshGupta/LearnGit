@@ -1,0 +1,14 @@
+Second file to be addes in the project. 
+
+Now we will edit the multiple files, and commit them to repository. 
+
+Now I will edit this file , then I will add this to staging area , then will see the diffrences between file in the repository and the staging area file. 
+
+To do this use the command , "git diff --staged"
+
+Now I will rename this file 
+New Name will be "RenamedTextFile2"
+
+
+
+
