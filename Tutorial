@@ -20,6 +20,16 @@ Then after this add the file to staging area and commit it
 
 
 Lect 13 - How to commit directly to repository 
-git commit -am "Commiting directly to Repository" 
+git commit -am "Commiting directly to Repository"
+
+Lect -14 
+Suppose you want to get back the file from repository then use the following command 
+git checkout -- filename 
+
+Lect -15 
+How to unstage the files 
+git reset HEAD filename 
+
+Lect  
 
 

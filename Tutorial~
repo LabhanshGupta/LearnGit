@@ -19,3 +19,7 @@ To rename the file use the command (git mv OldfileName NewName)
 Then after this add the file to staging area and commit it 
 
 
+Lect 13 - How to commit directly to repository 
+git commit -am "Commiting directly to Repository" 
+
+
