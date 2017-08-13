@@ -15,4 +15,7 @@ This will remove the file from both working area and the repository.
 After this you have to commit the changes again
 
 Lect 11- Renaming the files 
+To rename the file use the command (git mv OldfileName NewName) 
+Then after this add the file to staging area and commit it 
+
 
