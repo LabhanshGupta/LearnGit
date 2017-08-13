@@ -12,5 +12,6 @@ This will compare the Re pository file with the file in the staging area.
 Lect 10 - How to delete the files 
 To delete the file use the command "git rm FileName"
 This will remove the file from both working area and the repository. 
+After this you have to commit the changes again
 
 
