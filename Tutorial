@@ -1,0 +1,11 @@
+Tutorial 
+
+Lect 8,9 (The New Boston) : 
+To view the changes made by you 
+
+git diff 
+This command will dispaly the lines which are modified. (It will show the differences in Working Copy and the files in Repository only). 
+
+git diff --staged 
+This will compare the Re pository file with the file in the staging area. 
+
