@@ -8,6 +8,8 @@ To do this use the command , "git diff --staged"
 
 Now I will rename this file 
 New Name will be "RenamedTextFile2"
+To do this use the command (git mv OldFileName NewFileName) 
+
 
 
 
